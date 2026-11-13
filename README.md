@@ -20,7 +20,7 @@
 <br><br>
 
 ## 🚀 Ongoing Project
-국내 / 해외 전시앱 ArtTrip [github ➔](https://github.com/ProjectArTrip/arttrip-ios)
+blue spot (제철 해산물 app)
 
 ## ⚡ Documentation
 [![velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@hodu_angel)
