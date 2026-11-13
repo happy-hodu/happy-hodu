@@ -19,11 +19,6 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logoColor=white"/> 
 <br><br>
 
-## 🚀 Learning Now
-Flutter CustomPaint / Animation <br>
-go-router package handle <br>
-<!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> -->
-
 ## 🚀 Ongoing Project
 국내 / 해외 전시앱 ArtTrip [github ➔](https://github.com/ProjectArTrip/arttrip-ios)
 
